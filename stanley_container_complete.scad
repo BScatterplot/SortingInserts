@@ -60,8 +60,8 @@ flip_tol = 0.3;
 // Flip-up pip tolerance (gap between flip peg and hole)
 flip_pip_tol = 0.2;
 
-use <Divided box.scad>;
-use <Flip compartment.scad>;
+use <Divided_box.scad>;
+use <Flip_compartment.scad>;
 $fn = $preview ? 32 : 120;
 
 
