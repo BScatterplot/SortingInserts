@@ -1,6 +1,6 @@
 //Create a rotatable interior compartment
 //flip_compartment(50,40,20, 10, 5);
-use <Divided box.scad>;
+use <Divided_box.scad>;
 
 flip_compartment("add",
                 40, 20, 50,
